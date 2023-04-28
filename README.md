@@ -11,3 +11,12 @@
   <li>ID: usado para um único elemento (ex: #id)</li>
   <li>Class: coloca o mesmo estilo em vários elementos (ex: .class)</li>
 </ul>
+
+<h5>Tags CSS</h5>
+<ul>
+  <li>background-color</li>
+  <li>opacity</li>
+  <li>border-style</li>
+  <li>border-width</li>
+  <li>background-image: url()</li>
+</ul>
