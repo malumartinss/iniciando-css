@@ -19,6 +19,9 @@
   <li>border-style</li>
   <li>border-width</li>
   <li>background-image: url()</li>
+  <li>padding</li>
+  <li>margin</li>
 </ul>
 
+<h5>Box model</h5>
 <img src="https://www.avajava.com/tutorials/cascading-style-sheets/how-are-margins-borders-padding-and-content-related/how-are-margins-borders-padding-and-content-related-01.gif" alt="">
