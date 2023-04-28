@@ -23,5 +23,11 @@
   <li>margin</li>
 </ul>
 
+<h5>Unidades de medida</h5>
+<ul>
+  <li>pixels: fixo</li>
+  <li>porcentagem: relativo ao tamanho da página</li>
+</ul>
+
 <h5>Box model</h5>
 <img src="https://www.avajava.com/tutorials/cascading-style-sheets/how-are-margins-borders-padding-and-content-related/how-are-margins-borders-padding-and-content-related-01.gif" alt="">
