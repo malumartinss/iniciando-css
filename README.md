@@ -21,6 +21,7 @@
   <li>background-image: url()</li>
   <li>padding</li>
   <li>margin</li>
+  <li>font-family</li>
 </ul>
 
 <h5>Unidades de medida</h5>
