@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+h1 {
+    margin-bottom: 30px;
+    border-style: dashed;
+    border-width: 5px;
+    font-family: 'Pacifico';
+}
+
+div {
+    background-color: pink;
+    opacity: 0.5;
+    padding-left: 25px;
+    margin-left: 50%;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+p {
+    opacity: 1;
+}
