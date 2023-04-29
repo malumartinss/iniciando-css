@@ -14,7 +14,7 @@
   <li>Pseudo elementos: altera coisas específicas que não são tags (p::first-line)</li>
 </ul>
 
-<h5>Tags CSS</h5>
+<h5>Propriedades CSS</h5>
 <ul>
   <li>background-color</li>
   <li>opacity</li>
@@ -26,6 +26,8 @@
   <li>font-family</li>
   <li>font-size</li>
   <li>text-decoration</li>
+  <li>border-radius</li>
+  <li>linear gradient</li>
 </ul>
 
 <p>OBS: Não repetir código! Criar regras gerais</p>
