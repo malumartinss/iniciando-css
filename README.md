@@ -28,6 +28,7 @@
   <li>text-decoration</li>
   <li>border-radius</li>
   <li>linear gradient</li>
+  <li>media queries</li>
 </ul>
 
 <p>OBS: Não repetir código! Criar regras gerais</p>
